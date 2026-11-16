@@ -1,0 +1,16 @@
+{
+  "classes": [
+    "Anthracnose and Red Rot",
+    "Cereal Grain molds",
+    "Covered Kernel smut",
+    "Head Smut",
+    "loose smut",
+    "Rust"
+  ],
+  "device": "cpu",
+  "test_loss": 0.4205444397536352,
+  "test_accuracy": 0.8531598513011153,
+  "seed": 42,
+  "image_size": 224,
+  "rust_weight_multiplier": 1.25
+}

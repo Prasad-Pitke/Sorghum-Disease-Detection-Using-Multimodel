@@ -1,0 +1,217 @@
+﻿archive_path,true_class,predicted_class,confidence,exported_file
+Sorghum Disease Image Dataset/Anthracnose and Red Rot/AnthracnoseRed Rot1003.jpg,Anthracnose and Red Rot,Rust,0.6385,true-Anthracnose_and_Red_Rot__pred-Rust__conf-0.639__AnthracnoseRed Rot1003.jpg
+Sorghum Disease Image Dataset/Anthracnose and Red Rot/AnthracnoseRed Rot1004.jpg,Anthracnose and Red Rot,Rust,0.5968,true-Anthracnose_and_Red_Rot__pred-Rust__conf-0.597__AnthracnoseRed Rot1004.jpg
+Sorghum Disease Image Dataset/Anthracnose and Red Rot/AnthracnoseRed Rot331.jpg,Anthracnose and Red Rot,Rust,0.5280,true-Anthracnose_and_Red_Rot__pred-Rust__conf-0.528__AnthracnoseRed Rot331.jpg
+Sorghum Disease Image Dataset/Anthracnose and Red Rot/AnthracnoseRed Rot507.jpg,Anthracnose and Red Rot,Rust,0.5108,true-Anthracnose_and_Red_Rot__pred-Rust__conf-0.511__AnthracnoseRed Rot507.jpg
+Sorghum Disease Image Dataset/Anthracnose and Red Rot/AnthracnoseRed Rot580.jpg,Anthracnose and Red Rot,Rust,0.5931,true-Anthracnose_and_Red_Rot__pred-Rust__conf-0.593__AnthracnoseRed Rot580.jpg
+Sorghum Disease Image Dataset/Anthracnose and Red Rot/AnthracnoseRed Rot586.jpg,Anthracnose and Red Rot,Rust,0.7068,true-Anthracnose_and_Red_Rot__pred-Rust__conf-0.707__AnthracnoseRed Rot586.jpg
+Sorghum Disease Image Dataset/Anthracnose and Red Rot/AnthracnoseRed Rot60.jpg,Anthracnose and Red Rot,Head Smut,0.3134,true-Anthracnose_and_Red_Rot__pred-Head_Smut__conf-0.313__AnthracnoseRed Rot60.jpg
+Sorghum Disease Image Dataset/Anthracnose and Red Rot/AnthracnoseRed Rot780.jpg,Anthracnose and Red Rot,Rust,0.5470,true-Anthracnose_and_Red_Rot__pred-Rust__conf-0.547__AnthracnoseRed Rot780.jpg
+Sorghum Disease Image Dataset/Anthracnose and Red Rot/AnthracnoseRed Rot781.jpg,Anthracnose and Red Rot,Rust,0.5364,true-Anthracnose_and_Red_Rot__pred-Rust__conf-0.536__AnthracnoseRed Rot781.jpg
+Sorghum Disease Image Dataset/Anthracnose and Red Rot/AnthracnoseRed Rot797.jpg,Anthracnose and Red Rot,Rust,0.8231,true-Anthracnose_and_Red_Rot__pred-Rust__conf-0.823__AnthracnoseRed Rot797.jpg
+Sorghum Disease Image Dataset/Anthracnose and Red Rot/AnthracnoseRed Rot806.jpg,Anthracnose and Red Rot,Rust,0.5375,true-Anthracnose_and_Red_Rot__pred-Rust__conf-0.537__AnthracnoseRed Rot806.jpg
+Sorghum Disease Image Dataset/Anthracnose and Red Rot/AnthracnoseRed Rot810.jpg,Anthracnose and Red Rot,Rust,0.6038,true-Anthracnose_and_Red_Rot__pred-Rust__conf-0.604__AnthracnoseRed Rot810.jpg
+Sorghum Disease Image Dataset/Anthracnose and Red Rot/AnthracnoseRed Rot848.jpg,Anthracnose and Red Rot,Rust,0.8337,true-Anthracnose_and_Red_Rot__pred-Rust__conf-0.834__AnthracnoseRed Rot848.jpg
+Sorghum Disease Image Dataset/Anthracnose and Red Rot/AnthracnoseRed Rot853.jpg,Anthracnose and Red Rot,Rust,0.9087,true-Anthracnose_and_Red_Rot__pred-Rust__conf-0.909__AnthracnoseRed Rot853.jpg
+Sorghum Disease Image Dataset/Anthracnose and Red Rot/AnthracnoseRed Rot854.jpg,Anthracnose and Red Rot,Rust,0.9188,true-Anthracnose_and_Red_Rot__pred-Rust__conf-0.919__AnthracnoseRed Rot854.jpg
+Sorghum Disease Image Dataset/Anthracnose and Red Rot/AnthracnoseRed Rot957.jpg,Anthracnose and Red Rot,Rust,0.6759,true-Anthracnose_and_Red_Rot__pred-Rust__conf-0.676__AnthracnoseRed Rot957.jpg
+Sorghum Disease Image Dataset/Cereal Grain molds/Cereal Grain molds (White Fungi)t1086.jpg,Cereal Grain molds,Rust,0.5711,true-Cereal_Grain_molds__pred-Rust__conf-0.571__Cereal Grain molds (White Fungi)t1086.jpg
+Sorghum Disease Image Dataset/Cereal Grain molds/Cereal Grain molds (White Fungi)t1087.jpg,Cereal Grain molds,Rust,0.6565,true-Cereal_Grain_molds__pred-Rust__conf-0.656__Cereal Grain molds (White Fungi)t1087.jpg
+Sorghum Disease Image Dataset/Cereal Grain molds/Cereal Grain molds (White Fungi)t21.jpg,Cereal Grain molds,Head Smut,0.5420,true-Cereal_Grain_molds__pred-Head_Smut__conf-0.542__Cereal Grain molds (White Fungi)t21.jpg
+Sorghum Disease Image Dataset/Cereal Grain molds/Cereal Grain molds (White Fungi)t287.jpg,Cereal Grain molds,Rust,0.7543,true-Cereal_Grain_molds__pred-Rust__conf-0.754__Cereal Grain molds (White Fungi)t287.jpg
+Sorghum Disease Image Dataset/Cereal Grain molds/Cereal Grain molds (White Fungi)t288.jpg,Cereal Grain molds,Rust,0.7430,true-Cereal_Grain_molds__pred-Rust__conf-0.743__Cereal Grain molds (White Fungi)t288.jpg
+Sorghum Disease Image Dataset/Cereal Grain molds/Cereal Grain molds (White Fungi)t294.jpg,Cereal Grain molds,Rust,0.8284,true-Cereal_Grain_molds__pred-Rust__conf-0.828__Cereal Grain molds (White Fungi)t294.jpg
+Sorghum Disease Image Dataset/Cereal Grain molds/Cereal Grain molds (White Fungi)t37.jpg,Cereal Grain molds,Covered Kernel smut,0.6257,true-Cereal_Grain_molds__pred-Covered_Kernel_smut__conf-0.626__Cereal Grain molds (White Fungi)t37.jpg
+Sorghum Disease Image Dataset/Cereal Grain molds/Cereal Grain molds (White Fungi)t48.jpg,Cereal Grain molds,Head Smut,0.4419,true-Cereal_Grain_molds__pred-Head_Smut__conf-0.442__Cereal Grain molds (White Fungi)t48.jpg
+Sorghum Disease Image Dataset/Cereal Grain molds/Cereal Grain molds (White Fungi)t61.jpg,Cereal Grain molds,Covered Kernel smut,0.7295,true-Cereal_Grain_molds__pred-Covered_Kernel_smut__conf-0.730__Cereal Grain molds (White Fungi)t61.jpg
+Sorghum Disease Image Dataset/Cereal Grain molds/Cereal Grain molds (White Fungi)t630.jpg,Cereal Grain molds,Head Smut,0.6321,true-Cereal_Grain_molds__pred-Head_Smut__conf-0.632__Cereal Grain molds (White Fungi)t630.jpg
+Sorghum Disease Image Dataset/Cereal Grain molds/Cereal Grain molds (White Fungi)t632.jpg,Cereal Grain molds,Head Smut,0.6213,true-Cereal_Grain_molds__pred-Head_Smut__conf-0.621__Cereal Grain molds (White Fungi)t632.jpg
+Sorghum Disease Image Dataset/Cereal Grain molds/Cereal Grain molds (White Fungi)t638.jpg,Cereal Grain molds,Head Smut,0.6758,true-Cereal_Grain_molds__pred-Head_Smut__conf-0.676__Cereal Grain molds (White Fungi)t638.jpg
+Sorghum Disease Image Dataset/Cereal Grain molds/Cereal Grain molds (White Fungi)t640.jpg,Cereal Grain molds,Head Smut,0.5875,true-Cereal_Grain_molds__pred-Head_Smut__conf-0.588__Cereal Grain molds (White Fungi)t640.jpg
+Sorghum Disease Image Dataset/Cereal Grain molds/Cereal Grain molds (White Fungi)t643.jpg,Cereal Grain molds,Head Smut,0.6045,true-Cereal_Grain_molds__pred-Head_Smut__conf-0.604__Cereal Grain molds (White Fungi)t643.jpg
+Sorghum Disease Image Dataset/Cereal Grain molds/Cereal Grain molds (White Fungi)t664.jpg,Cereal Grain molds,Head Smut,0.7523,true-Cereal_Grain_molds__pred-Head_Smut__conf-0.752__Cereal Grain molds (White Fungi)t664.jpg
+Sorghum Disease Image Dataset/Cereal Grain molds/Cereal Grain molds (White Fungi)t709.jpg,Cereal Grain molds,Head Smut,0.5725,true-Cereal_Grain_molds__pred-Head_Smut__conf-0.572__Cereal Grain molds (White Fungi)t709.jpg
+Sorghum Disease Image Dataset/Cereal Grain molds/Cereal Grain molds (White Fungi)t74.jpg,Cereal Grain molds,Head Smut,0.3435,true-Cereal_Grain_molds__pred-Head_Smut__conf-0.344__Cereal Grain molds (White Fungi)t74.jpg
+Sorghum Disease Image Dataset/Cereal Grain molds/Cereal Grain molds (White Fungi)t81.jpg,Cereal Grain molds,Head Smut,0.6737,true-Cereal_Grain_molds__pred-Head_Smut__conf-0.674__Cereal Grain molds (White Fungi)t81.jpg
+Sorghum Disease Image Dataset/Cereal Grain molds/Cereal Grain molds (White Fungi)t885.jpg,Cereal Grain molds,Covered Kernel smut,0.5683,true-Cereal_Grain_molds__pred-Covered_Kernel_smut__conf-0.568__Cereal Grain molds (White Fungi)t885.jpg
+Sorghum Disease Image Dataset/Cereal Grain molds/Cereal Grain molds (White Fungi)t887.jpg,Cereal Grain molds,loose smut,0.5472,true-Cereal_Grain_molds__pred-loose_smut__conf-0.547__Cereal Grain molds (White Fungi)t887.jpg
+Sorghum Disease Image Dataset/Cereal Grain molds/Cereal Grain molds (White Fungi)t890.jpg,Cereal Grain molds,Covered Kernel smut,0.4607,true-Cereal_Grain_molds__pred-Covered_Kernel_smut__conf-0.461__Cereal Grain molds (White Fungi)t890.jpg
+Sorghum Disease Image Dataset/Cereal Grain molds/Cereal Grain molds (White Fungi)t908.jpg,Cereal Grain molds,loose smut,0.3657,true-Cereal_Grain_molds__pred-loose_smut__conf-0.366__Cereal Grain molds (White Fungi)t908.jpg
+Sorghum Disease Image Dataset/Covered Kernel smut/Covered Kernel smut (sori creamy)t11.jpg,Covered Kernel smut,loose smut,0.5299,true-Covered_Kernel_smut__pred-loose_smut__conf-0.530__Covered Kernel smut (sori creamy)t11.jpg
+Sorghum Disease Image Dataset/Covered Kernel smut/Covered Kernel smut (sori creamy)t19.jpg,Covered Kernel smut,loose smut,0.5890,true-Covered_Kernel_smut__pred-loose_smut__conf-0.589__Covered Kernel smut (sori creamy)t19.jpg
+Sorghum Disease Image Dataset/Covered Kernel smut/Covered Kernel smut (sori creamy)t20.jpg,Covered Kernel smut,loose smut,0.6302,true-Covered_Kernel_smut__pred-loose_smut__conf-0.630__Covered Kernel smut (sori creamy)t20.jpg
+Sorghum Disease Image Dataset/Covered Kernel smut/Covered Kernel smut (sori creamy)t231.jpg,Covered Kernel smut,Cereal Grain molds,0.6052,true-Covered_Kernel_smut__pred-Cereal_Grain_molds__conf-0.605__Covered Kernel smut (sori creamy)t231.jpg
+Sorghum Disease Image Dataset/Covered Kernel smut/Covered Kernel smut (sori creamy)t235.jpg,Covered Kernel smut,loose smut,0.3974,true-Covered_Kernel_smut__pred-loose_smut__conf-0.397__Covered Kernel smut (sori creamy)t235.jpg
+Sorghum Disease Image Dataset/Covered Kernel smut/Covered Kernel smut (sori creamy)t248.jpg,Covered Kernel smut,Cereal Grain molds,0.7043,true-Covered_Kernel_smut__pred-Cereal_Grain_molds__conf-0.704__Covered Kernel smut (sori creamy)t248.jpg
+Sorghum Disease Image Dataset/Covered Kernel smut/Covered Kernel smut (sori creamy)t8.jpg,Covered Kernel smut,loose smut,0.5949,true-Covered_Kernel_smut__pred-loose_smut__conf-0.595__Covered Kernel smut (sori creamy)t8.jpg
+Sorghum Disease Image Dataset/Covered Kernel smut/Covered Kernel smut (sori creamy)t91.jpg,Covered Kernel smut,Rust,0.4504,true-Covered_Kernel_smut__pred-Rust__conf-0.450__Covered Kernel smut (sori creamy)t91.jpg
+Sorghum Disease Image Dataset/Head Smut/Head Smut (White Spreaded)t275.jpg,Head Smut,Covered Kernel smut,0.4924,true-Head_Smut__pred-Covered_Kernel_smut__conf-0.492__Head Smut (White Spreaded)t275.jpg
+Sorghum Disease Image Dataset/Head Smut/Head Smut (White Spreaded)t277.jpg,Head Smut,Covered Kernel smut,0.6792,true-Head_Smut__pred-Covered_Kernel_smut__conf-0.679__Head Smut (White Spreaded)t277.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)100.jpg,loose smut,Covered Kernel smut,0.7051,true-loose_smut__pred-Covered_Kernel_smut__conf-0.705__loose smut (black)100.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1014.jpg,loose smut,Cereal Grain molds,0.3459,true-loose_smut__pred-Cereal_Grain_molds__conf-0.346__loose smut (black)1014.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1056.jpg,loose smut,Covered Kernel smut,0.5140,true-loose_smut__pred-Covered_Kernel_smut__conf-0.514__loose smut (black)1056.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1063.jpg,loose smut,Rust,0.5817,true-loose_smut__pred-Rust__conf-0.582__loose smut (black)1063.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1065.jpg,loose smut,Cereal Grain molds,0.3497,true-loose_smut__pred-Cereal_Grain_molds__conf-0.350__loose smut (black)1065.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1091.jpg,loose smut,Cereal Grain molds,0.5222,true-loose_smut__pred-Cereal_Grain_molds__conf-0.522__loose smut (black)1091.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1098.jpg,loose smut,Cereal Grain molds,0.4238,true-loose_smut__pred-Cereal_Grain_molds__conf-0.424__loose smut (black)1098.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1103.jpg,loose smut,Cereal Grain molds,0.5118,true-loose_smut__pred-Cereal_Grain_molds__conf-0.512__loose smut (black)1103.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1106.jpg,loose smut,Cereal Grain molds,0.4827,true-loose_smut__pred-Cereal_Grain_molds__conf-0.483__loose smut (black)1106.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1107.jpg,loose smut,Cereal Grain molds,0.4784,true-loose_smut__pred-Cereal_Grain_molds__conf-0.478__loose smut (black)1107.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)119.jpg,loose smut,Covered Kernel smut,0.6072,true-loose_smut__pred-Covered_Kernel_smut__conf-0.607__loose smut (black)119.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)12.jpg,loose smut,Cereal Grain molds,0.5310,true-loose_smut__pred-Cereal_Grain_molds__conf-0.531__loose smut (black)12.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1213.jpg,loose smut,Covered Kernel smut,0.3379,true-loose_smut__pred-Covered_Kernel_smut__conf-0.338__loose smut (black)1213.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1217.jpg,loose smut,Cereal Grain molds,0.5292,true-loose_smut__pred-Cereal_Grain_molds__conf-0.529__loose smut (black)1217.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1222.jpg,loose smut,Cereal Grain molds,0.5618,true-loose_smut__pred-Cereal_Grain_molds__conf-0.562__loose smut (black)1222.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1230.jpg,loose smut,Cereal Grain molds,0.4994,true-loose_smut__pred-Cereal_Grain_molds__conf-0.499__loose smut (black)1230.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1293.jpg,loose smut,Covered Kernel smut,0.4384,true-loose_smut__pred-Covered_Kernel_smut__conf-0.438__loose smut (black)1293.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1298.jpg,loose smut,Covered Kernel smut,0.4533,true-loose_smut__pred-Covered_Kernel_smut__conf-0.453__loose smut (black)1298.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1302.jpg,loose smut,Covered Kernel smut,0.4771,true-loose_smut__pred-Covered_Kernel_smut__conf-0.477__loose smut (black)1302.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1309.jpg,loose smut,Covered Kernel smut,0.5353,true-loose_smut__pred-Covered_Kernel_smut__conf-0.535__loose smut (black)1309.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1321.jpg,loose smut,Covered Kernel smut,0.5170,true-loose_smut__pred-Covered_Kernel_smut__conf-0.517__loose smut (black)1321.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1323.jpg,loose smut,Covered Kernel smut,0.5088,true-loose_smut__pred-Covered_Kernel_smut__conf-0.509__loose smut (black)1323.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1343.jpg,loose smut,Covered Kernel smut,0.5551,true-loose_smut__pred-Covered_Kernel_smut__conf-0.555__loose smut (black)1343.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1347.jpg,loose smut,Cereal Grain molds,0.6153,true-loose_smut__pred-Cereal_Grain_molds__conf-0.615__loose smut (black)1347.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1349.jpg,loose smut,Cereal Grain molds,0.6112,true-loose_smut__pred-Cereal_Grain_molds__conf-0.611__loose smut (black)1349.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1354.jpg,loose smut,Cereal Grain molds,0.5751,true-loose_smut__pred-Cereal_Grain_molds__conf-0.575__loose smut (black)1354.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1359.jpg,loose smut,Cereal Grain molds,0.5688,true-loose_smut__pred-Cereal_Grain_molds__conf-0.569__loose smut (black)1359.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1374.jpg,loose smut,Cereal Grain molds,0.7932,true-loose_smut__pred-Cereal_Grain_molds__conf-0.793__loose smut (black)1374.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1375.jpg,loose smut,Cereal Grain molds,0.8120,true-loose_smut__pred-Cereal_Grain_molds__conf-0.812__loose smut (black)1375.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1383.jpg,loose smut,Cereal Grain molds,0.6574,true-loose_smut__pred-Cereal_Grain_molds__conf-0.657__loose smut (black)1383.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1384.jpg,loose smut,Cereal Grain molds,0.6967,true-loose_smut__pred-Cereal_Grain_molds__conf-0.697__loose smut (black)1384.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1386.jpg,loose smut,Cereal Grain molds,0.5638,true-loose_smut__pred-Cereal_Grain_molds__conf-0.564__loose smut (black)1386.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1398.jpg,loose smut,Cereal Grain molds,0.5998,true-loose_smut__pred-Cereal_Grain_molds__conf-0.600__loose smut (black)1398.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1406.jpg,loose smut,Cereal Grain molds,0.8253,true-loose_smut__pred-Cereal_Grain_molds__conf-0.825__loose smut (black)1406.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1419.jpg,loose smut,Cereal Grain molds,0.7792,true-loose_smut__pred-Cereal_Grain_molds__conf-0.779__loose smut (black)1419.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1423.jpg,loose smut,Cereal Grain molds,0.8192,true-loose_smut__pred-Cereal_Grain_molds__conf-0.819__loose smut (black)1423.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1435.jpg,loose smut,Cereal Grain molds,0.7601,true-loose_smut__pred-Cereal_Grain_molds__conf-0.760__loose smut (black)1435.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1436.jpg,loose smut,Cereal Grain molds,0.6919,true-loose_smut__pred-Cereal_Grain_molds__conf-0.692__loose smut (black)1436.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1445.jpg,loose smut,Cereal Grain molds,0.6451,true-loose_smut__pred-Cereal_Grain_molds__conf-0.645__loose smut (black)1445.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1458.jpg,loose smut,Cereal Grain molds,0.5292,true-loose_smut__pred-Cereal_Grain_molds__conf-0.529__loose smut (black)1458.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1461.jpg,loose smut,Covered Kernel smut,0.3064,true-loose_smut__pred-Covered_Kernel_smut__conf-0.306__loose smut (black)1461.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1462.jpg,loose smut,Cereal Grain molds,0.3482,true-loose_smut__pred-Cereal_Grain_molds__conf-0.348__loose smut (black)1462.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1466.jpg,loose smut,Cereal Grain molds,0.3985,true-loose_smut__pred-Cereal_Grain_molds__conf-0.399__loose smut (black)1466.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1467.jpg,loose smut,Cereal Grain molds,0.4691,true-loose_smut__pred-Cereal_Grain_molds__conf-0.469__loose smut (black)1467.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1475.jpg,loose smut,Cereal Grain molds,0.4016,true-loose_smut__pred-Cereal_Grain_molds__conf-0.402__loose smut (black)1475.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)150.jpg,loose smut,Covered Kernel smut,0.7306,true-loose_smut__pred-Covered_Kernel_smut__conf-0.731__loose smut (black)150.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)153.jpg,loose smut,Covered Kernel smut,0.6852,true-loose_smut__pred-Covered_Kernel_smut__conf-0.685__loose smut (black)153.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)154.jpg,loose smut,Covered Kernel smut,0.6992,true-loose_smut__pred-Covered_Kernel_smut__conf-0.699__loose smut (black)154.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)160.jpg,loose smut,Covered Kernel smut,0.6067,true-loose_smut__pred-Covered_Kernel_smut__conf-0.607__loose smut (black)160.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1636.jpg,loose smut,Cereal Grain molds,0.6837,true-loose_smut__pred-Cereal_Grain_molds__conf-0.684__loose smut (black)1636.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1639.jpg,loose smut,Cereal Grain molds,0.6830,true-loose_smut__pred-Cereal_Grain_molds__conf-0.683__loose smut (black)1639.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1640.jpg,loose smut,Cereal Grain molds,0.6416,true-loose_smut__pred-Cereal_Grain_molds__conf-0.642__loose smut (black)1640.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1643.jpg,loose smut,Cereal Grain molds,0.6264,true-loose_smut__pred-Cereal_Grain_molds__conf-0.626__loose smut (black)1643.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)1648.jpg,loose smut,Cereal Grain molds,0.7596,true-loose_smut__pred-Cereal_Grain_molds__conf-0.760__loose smut (black)1648.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)166.jpg,loose smut,Covered Kernel smut,0.5418,true-loose_smut__pred-Covered_Kernel_smut__conf-0.542__loose smut (black)166.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)168.jpg,loose smut,Covered Kernel smut,0.5522,true-loose_smut__pred-Covered_Kernel_smut__conf-0.552__loose smut (black)168.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)171.jpg,loose smut,Covered Kernel smut,0.5118,true-loose_smut__pred-Covered_Kernel_smut__conf-0.512__loose smut (black)171.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)175.jpg,loose smut,Covered Kernel smut,0.6705,true-loose_smut__pred-Covered_Kernel_smut__conf-0.670__loose smut (black)175.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)179.jpg,loose smut,Covered Kernel smut,0.6816,true-loose_smut__pred-Covered_Kernel_smut__conf-0.682__loose smut (black)179.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)181.jpg,loose smut,Covered Kernel smut,0.6567,true-loose_smut__pred-Covered_Kernel_smut__conf-0.657__loose smut (black)181.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)184.jpg,loose smut,Covered Kernel smut,0.7618,true-loose_smut__pred-Covered_Kernel_smut__conf-0.762__loose smut (black)184.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)189.jpg,loose smut,Covered Kernel smut,0.7317,true-loose_smut__pred-Covered_Kernel_smut__conf-0.732__loose smut (black)189.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)194.jpg,loose smut,Covered Kernel smut,0.6757,true-loose_smut__pred-Covered_Kernel_smut__conf-0.676__loose smut (black)194.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)204.jpg,loose smut,Head Smut,0.4613,true-loose_smut__pred-Head_Smut__conf-0.461__loose smut (black)204.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)210.jpg,loose smut,Head Smut,0.6901,true-loose_smut__pred-Head_Smut__conf-0.690__loose smut (black)210.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)212.jpg,loose smut,Head Smut,0.4409,true-loose_smut__pred-Head_Smut__conf-0.441__loose smut (black)212.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)359.jpg,loose smut,Head Smut,0.4609,true-loose_smut__pred-Head_Smut__conf-0.461__loose smut (black)359.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)362.jpg,loose smut,Head Smut,0.5501,true-loose_smut__pred-Head_Smut__conf-0.550__loose smut (black)362.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)365.jpg,loose smut,Head Smut,0.5078,true-loose_smut__pred-Head_Smut__conf-0.508__loose smut (black)365.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)438.jpg,loose smut,Cereal Grain molds,0.4476,true-loose_smut__pred-Cereal_Grain_molds__conf-0.448__loose smut (black)438.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)470.jpg,loose smut,Anthracnose and Red Rot,0.5172,true-loose_smut__pred-Anthracnose_and_Red_Rot__conf-0.517__loose smut (black)470.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)5.jpg,loose smut,Cereal Grain molds,0.4391,true-loose_smut__pred-Cereal_Grain_molds__conf-0.439__loose smut (black)5.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)523.jpg,loose smut,Head Smut,0.5645,true-loose_smut__pred-Head_Smut__conf-0.565__loose smut (black)523.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)546.jpg,loose smut,Head Smut,0.5446,true-loose_smut__pred-Head_Smut__conf-0.545__loose smut (black)546.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)607.jpg,loose smut,Cereal Grain molds,0.6388,true-loose_smut__pred-Cereal_Grain_molds__conf-0.639__loose smut (black)607.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)609.jpg,loose smut,Cereal Grain molds,0.5038,true-loose_smut__pred-Cereal_Grain_molds__conf-0.504__loose smut (black)609.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)629.jpg,loose smut,Head Smut,0.5290,true-loose_smut__pred-Head_Smut__conf-0.529__loose smut (black)629.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)630.jpg,loose smut,Head Smut,0.6031,true-loose_smut__pred-Head_Smut__conf-0.603__loose smut (black)630.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)779.jpg,loose smut,Covered Kernel smut,0.3452,true-loose_smut__pred-Covered_Kernel_smut__conf-0.345__loose smut (black)779.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)868.jpg,loose smut,Head Smut,0.4828,true-loose_smut__pred-Head_Smut__conf-0.483__loose smut (black)868.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)888.jpg,loose smut,Cereal Grain molds,0.5199,true-loose_smut__pred-Cereal_Grain_molds__conf-0.520__loose smut (black)888.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)89.jpg,loose smut,Covered Kernel smut,0.5632,true-loose_smut__pred-Covered_Kernel_smut__conf-0.563__loose smut (black)89.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)895.jpg,loose smut,Head Smut,0.4526,true-loose_smut__pred-Head_Smut__conf-0.453__loose smut (black)895.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)9.jpg,loose smut,Cereal Grain molds,0.5575,true-loose_smut__pred-Cereal_Grain_molds__conf-0.558__loose smut (black)9.jpg
+Sorghum Disease Image Dataset/loose smut/loose smut (black)952.jpg,loose smut,Cereal Grain molds,0.4786,true-loose_smut__pred-Cereal_Grain_molds__conf-0.479__loose smut (black)952.jpg
+Sorghum Disease Image Dataset/Rust/Rust1001.jpg,Rust,Anthracnose and Red Rot,0.6431,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.643__Rust1001.jpg
+Sorghum Disease Image Dataset/Rust/Rust101.jpg,Rust,Anthracnose and Red Rot,0.5046,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.505__Rust101.jpg
+Sorghum Disease Image Dataset/Rust/Rust1014.jpg,Rust,Anthracnose and Red Rot,0.9132,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.913__Rust1014.jpg
+Sorghum Disease Image Dataset/Rust/Rust1015.jpg,Rust,Anthracnose and Red Rot,0.9243,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.924__Rust1015.jpg
+Sorghum Disease Image Dataset/Rust/Rust1018.jpg,Rust,Anthracnose and Red Rot,0.8434,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.843__Rust1018.jpg
+Sorghum Disease Image Dataset/Rust/Rust1075.jpg,Rust,Cereal Grain molds,0.4617,true-Rust__pred-Cereal_Grain_molds__conf-0.462__Rust1075.jpg
+Sorghum Disease Image Dataset/Rust/Rust112.jpg,Rust,Anthracnose and Red Rot,0.6751,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.675__Rust112.jpg
+Sorghum Disease Image Dataset/Rust/Rust113.jpg,Rust,Anthracnose and Red Rot,0.5588,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.559__Rust113.jpg
+Sorghum Disease Image Dataset/Rust/Rust1190.jpg,Rust,Anthracnose and Red Rot,0.5037,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.504__Rust1190.jpg
+Sorghum Disease Image Dataset/Rust/Rust1197.jpg,Rust,Anthracnose and Red Rot,0.5711,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.571__Rust1197.jpg
+Sorghum Disease Image Dataset/Rust/Rust1293.jpg,Rust,Cereal Grain molds,0.5691,true-Rust__pred-Cereal_Grain_molds__conf-0.569__Rust1293.jpg
+Sorghum Disease Image Dataset/Rust/Rust1294.jpg,Rust,Cereal Grain molds,0.5348,true-Rust__pred-Cereal_Grain_molds__conf-0.535__Rust1294.jpg
+Sorghum Disease Image Dataset/Rust/Rust1353.jpg,Rust,Anthracnose and Red Rot,0.7807,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.781__Rust1353.jpg
+Sorghum Disease Image Dataset/Rust/Rust1364.jpg,Rust,Anthracnose and Red Rot,0.8043,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.804__Rust1364.jpg
+Sorghum Disease Image Dataset/Rust/Rust1366.jpg,Rust,Anthracnose and Red Rot,0.7685,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.768__Rust1366.jpg
+Sorghum Disease Image Dataset/Rust/Rust1370.jpg,Rust,Anthracnose and Red Rot,0.6936,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.694__Rust1370.jpg
+Sorghum Disease Image Dataset/Rust/Rust1398.jpg,Rust,Anthracnose and Red Rot,0.7628,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.763__Rust1398.jpg
+Sorghum Disease Image Dataset/Rust/Rust1400.jpg,Rust,Anthracnose and Red Rot,0.8043,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.804__Rust1400.jpg
+Sorghum Disease Image Dataset/Rust/Rust1414.jpg,Rust,Anthracnose and Red Rot,0.6228,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.623__Rust1414.jpg
+Sorghum Disease Image Dataset/Rust/Rust1423.jpg,Rust,Anthracnose and Red Rot,0.7448,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.745__Rust1423.jpg
+Sorghum Disease Image Dataset/Rust/Rust1428.jpg,Rust,Anthracnose and Red Rot,0.8248,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.825__Rust1428.jpg
+Sorghum Disease Image Dataset/Rust/Rust1429.jpg,Rust,Anthracnose and Red Rot,0.8278,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.828__Rust1429.jpg
+Sorghum Disease Image Dataset/Rust/Rust1444.jpg,Rust,loose smut,0.5977,true-Rust__pred-loose_smut__conf-0.598__Rust1444.jpg
+Sorghum Disease Image Dataset/Rust/Rust1462.jpg,Rust,Cereal Grain molds,0.2781,true-Rust__pred-Cereal_Grain_molds__conf-0.278__Rust1462.jpg
+Sorghum Disease Image Dataset/Rust/Rust1464.jpg,Rust,loose smut,0.3731,true-Rust__pred-loose_smut__conf-0.373__Rust1464.jpg
+Sorghum Disease Image Dataset/Rust/Rust1466.jpg,Rust,Cereal Grain molds,0.5019,true-Rust__pred-Cereal_Grain_molds__conf-0.502__Rust1466.jpg
+Sorghum Disease Image Dataset/Rust/Rust1469.jpg,Rust,Cereal Grain molds,0.7744,true-Rust__pred-Cereal_Grain_molds__conf-0.774__Rust1469.jpg
+Sorghum Disease Image Dataset/Rust/Rust1474.jpg,Rust,Cereal Grain molds,0.7884,true-Rust__pred-Cereal_Grain_molds__conf-0.788__Rust1474.jpg
+Sorghum Disease Image Dataset/Rust/Rust1475.jpg,Rust,Cereal Grain molds,0.7198,true-Rust__pred-Cereal_Grain_molds__conf-0.720__Rust1475.jpg
+Sorghum Disease Image Dataset/Rust/Rust1709.jpg,Rust,Anthracnose and Red Rot,0.5637,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.564__Rust1709.jpg
+Sorghum Disease Image Dataset/Rust/Rust1747.jpg,Rust,Anthracnose and Red Rot,0.7415,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.742__Rust1747.jpg
+Sorghum Disease Image Dataset/Rust/Rust1753.jpg,Rust,Anthracnose and Red Rot,0.5463,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.546__Rust1753.jpg
+Sorghum Disease Image Dataset/Rust/Rust1811.jpg,Rust,Anthracnose and Red Rot,0.7621,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.762__Rust1811.jpg
+Sorghum Disease Image Dataset/Rust/Rust185.jpg,Rust,Cereal Grain molds,0.7855,true-Rust__pred-Cereal_Grain_molds__conf-0.785__Rust185.jpg
+Sorghum Disease Image Dataset/Rust/Rust1941.jpg,Rust,Anthracnose and Red Rot,0.5010,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.501__Rust1941.jpg
+Sorghum Disease Image Dataset/Rust/Rust1959.jpg,Rust,Cereal Grain molds,0.4078,true-Rust__pred-Cereal_Grain_molds__conf-0.408__Rust1959.jpg
+Sorghum Disease Image Dataset/Rust/Rust2083.jpg,Rust,Cereal Grain molds,0.5261,true-Rust__pred-Cereal_Grain_molds__conf-0.526__Rust2083.jpg
+Sorghum Disease Image Dataset/Rust/Rust212.jpg,Rust,Cereal Grain molds,0.6084,true-Rust__pred-Cereal_Grain_molds__conf-0.608__Rust212.jpg
+Sorghum Disease Image Dataset/Rust/Rust2131.jpg,Rust,Cereal Grain molds,0.5680,true-Rust__pred-Cereal_Grain_molds__conf-0.568__Rust2131.jpg
+Sorghum Disease Image Dataset/Rust/Rust214.jpg,Rust,Cereal Grain molds,0.5950,true-Rust__pred-Cereal_Grain_molds__conf-0.595__Rust214.jpg
+Sorghum Disease Image Dataset/Rust/Rust215.jpg,Rust,Cereal Grain molds,0.4362,true-Rust__pred-Cereal_Grain_molds__conf-0.436__Rust215.jpg
+Sorghum Disease Image Dataset/Rust/Rust2219.jpg,Rust,Cereal Grain molds,0.3159,true-Rust__pred-Cereal_Grain_molds__conf-0.316__Rust2219.jpg
+Sorghum Disease Image Dataset/Rust/Rust2228.jpg,Rust,loose smut,0.4174,true-Rust__pred-loose_smut__conf-0.417__Rust2228.jpg
+Sorghum Disease Image Dataset/Rust/Rust2230.jpg,Rust,loose smut,0.4335,true-Rust__pred-loose_smut__conf-0.434__Rust2230.jpg
+Sorghum Disease Image Dataset/Rust/Rust226.jpg,Rust,Anthracnose and Red Rot,0.7087,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.709__Rust226.jpg
+Sorghum Disease Image Dataset/Rust/Rust2311.jpg,Rust,Cereal Grain molds,0.5917,true-Rust__pred-Cereal_Grain_molds__conf-0.592__Rust2311.jpg
+Sorghum Disease Image Dataset/Rust/Rust2353.jpg,Rust,Cereal Grain molds,0.6192,true-Rust__pred-Cereal_Grain_molds__conf-0.619__Rust2353.jpg
+Sorghum Disease Image Dataset/Rust/Rust2356.jpg,Rust,Cereal Grain molds,0.6239,true-Rust__pred-Cereal_Grain_molds__conf-0.624__Rust2356.jpg
+Sorghum Disease Image Dataset/Rust/Rust2361.jpg,Rust,Cereal Grain molds,0.6922,true-Rust__pred-Cereal_Grain_molds__conf-0.692__Rust2361.jpg
+Sorghum Disease Image Dataset/Rust/Rust2362.jpg,Rust,Cereal Grain molds,0.6950,true-Rust__pred-Cereal_Grain_molds__conf-0.695__Rust2362.jpg
+Sorghum Disease Image Dataset/Rust/Rust2365.jpg,Rust,Cereal Grain molds,0.7327,true-Rust__pred-Cereal_Grain_molds__conf-0.733__Rust2365.jpg
+Sorghum Disease Image Dataset/Rust/Rust240.jpg,Rust,Anthracnose and Red Rot,0.6246,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.625__Rust240.jpg
+Sorghum Disease Image Dataset/Rust/Rust245.jpg,Rust,Anthracnose and Red Rot,0.7448,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.745__Rust245.jpg
+Sorghum Disease Image Dataset/Rust/Rust247.jpg,Rust,Anthracnose and Red Rot,0.7829,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.783__Rust247.jpg
+Sorghum Disease Image Dataset/Rust/Rust38.jpg,Rust,Anthracnose and Red Rot,0.6346,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.635__Rust38.jpg
+Sorghum Disease Image Dataset/Rust/Rust43.jpg,Rust,Anthracnose and Red Rot,0.6604,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.660__Rust43.jpg
+Sorghum Disease Image Dataset/Rust/Rust48.jpg,Rust,Anthracnose and Red Rot,0.6128,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.613__Rust48.jpg
+Sorghum Disease Image Dataset/Rust/Rust535.jpg,Rust,Anthracnose and Red Rot,0.7941,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.794__Rust535.jpg
+Sorghum Disease Image Dataset/Rust/Rust539.jpg,Rust,Anthracnose and Red Rot,0.6546,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.655__Rust539.jpg
+Sorghum Disease Image Dataset/Rust/Rust566.jpg,Rust,Anthracnose and Red Rot,0.5212,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.521__Rust566.jpg
+Sorghum Disease Image Dataset/Rust/Rust576.jpg,Rust,Anthracnose and Red Rot,0.5387,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.539__Rust576.jpg
+Sorghum Disease Image Dataset/Rust/Rust578.jpg,Rust,Anthracnose and Red Rot,0.6067,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.607__Rust578.jpg
+Sorghum Disease Image Dataset/Rust/Rust58.jpg,Rust,Anthracnose and Red Rot,0.7080,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.708__Rust58.jpg
+Sorghum Disease Image Dataset/Rust/Rust580.jpg,Rust,Anthracnose and Red Rot,0.5899,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.590__Rust580.jpg
+Sorghum Disease Image Dataset/Rust/Rust664.jpg,Rust,Anthracnose and Red Rot,0.6102,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.610__Rust664.jpg
+Sorghum Disease Image Dataset/Rust/Rust668.jpg,Rust,Anthracnose and Red Rot,0.9013,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.901__Rust668.jpg
+Sorghum Disease Image Dataset/Rust/Rust669.jpg,Rust,Anthracnose and Red Rot,0.9548,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.955__Rust669.jpg
+Sorghum Disease Image Dataset/Rust/Rust69.jpg,Rust,Anthracnose and Red Rot,0.5887,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.589__Rust69.jpg
+Sorghum Disease Image Dataset/Rust/Rust717.jpg,Rust,Anthracnose and Red Rot,0.6105,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.611__Rust717.jpg
+Sorghum Disease Image Dataset/Rust/Rust82.jpg,Rust,Anthracnose and Red Rot,0.8371,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.837__Rust82.jpg
+Sorghum Disease Image Dataset/Rust/Rust884.jpg,Rust,Anthracnose and Red Rot,0.7613,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.761__Rust884.jpg
+Sorghum Disease Image Dataset/Rust/Rust886.jpg,Rust,Anthracnose and Red Rot,0.8565,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.857__Rust886.jpg
+Sorghum Disease Image Dataset/Rust/Rust888.jpg,Rust,Anthracnose and Red Rot,0.6786,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.679__Rust888.jpg
+Sorghum Disease Image Dataset/Rust/Rust892.jpg,Rust,Anthracnose and Red Rot,0.6279,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.628__Rust892.jpg
+Sorghum Disease Image Dataset/Rust/Rust92.jpg,Rust,Anthracnose and Red Rot,0.7484,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.748__Rust92.jpg
+Sorghum Disease Image Dataset/Rust/Rust927.jpg,Rust,Anthracnose and Red Rot,0.8478,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.848__Rust927.jpg
+Sorghum Disease Image Dataset/Rust/Rust93.jpg,Rust,Anthracnose and Red Rot,0.7578,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.758__Rust93.jpg
+Sorghum Disease Image Dataset/Rust/Rust961.jpg,Rust,Anthracnose and Red Rot,0.5336,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.534__Rust961.jpg
+Sorghum Disease Image Dataset/Rust/Rust963.jpg,Rust,Anthracnose and Red Rot,0.6435,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.644__Rust963.jpg
+Sorghum Disease Image Dataset/Rust/Rust964.jpg,Rust,Anthracnose and Red Rot,0.6489,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.649__Rust964.jpg
+Sorghum Disease Image Dataset/Rust/Rust967.jpg,Rust,Anthracnose and Red Rot,0.6676,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.668__Rust967.jpg
+Sorghum Disease Image Dataset/Rust/Rust970.jpg,Rust,Anthracnose and Red Rot,0.8201,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.820__Rust970.jpg
+Sorghum Disease Image Dataset/Rust/Rust999.jpg,Rust,Anthracnose and Red Rot,0.8204,true-Rust__pred-Anthracnose_and_Red_Rot__conf-0.820__Rust999.jpg

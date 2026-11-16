@@ -1,0 +1,7 @@
+﻿actual\predicted,Anthracnose and Red Rot,Cereal Grain molds,Covered Kernel smut,Head Smut,loose smut,Rust
+Anthracnose and Red Rot,142,0,2,0,0,8
+Cereal Grain molds,0,169,4,3,6,1
+Covered Kernel smut,0,3,30,1,8,0
+Head Smut,0,1,4,64,6,0
+loose smut,1,24,14,3,225,0
+Rust,78,13,0,1,4,261

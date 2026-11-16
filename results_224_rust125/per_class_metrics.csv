@@ -1,0 +1,7 @@
+﻿class,precision,recall,f1,support
+Anthracnose and Red Rot,0.7751,0.8618,0.8162,152
+Cereal Grain molds,0.8333,0.9016,0.8661,183
+Covered Kernel smut,0.4531,0.6905,0.5472,42
+Head Smut,0.8519,0.9200,0.8846,75
+loose smut,0.9247,0.8277,0.8735,267
+Rust,0.9323,0.8487,0.8886,357
